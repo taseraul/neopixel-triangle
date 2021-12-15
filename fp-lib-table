@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name trianglepcb)(type KiCad)(uri ${KIPRJMOD}/trianglepcb.pretty)(options "")(descr ""))
+)
